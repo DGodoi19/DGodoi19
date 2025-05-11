@@ -1,9 +1,10 @@
-- 👋 Olá! Meu nome é Daniel Godoi
+##- 👋 Olá! Meu nome é Daniel Godoi
 - 👀 Estou interessado em vagas de Estágio!
 - 🌱 Atualmente estou cursando/aprendendo Ciências da Computação
 - 💞️ Estou procurando colaborar em qualquer área de TI
 
-CONTATOS:
+
+##CONTATOS:
 
 [![LinkedIn - Daniel Godoi Alves Watrin](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/daniel-godoi-alves-watrin-038b8935b/?trk=opento_sprofile_details)
 
