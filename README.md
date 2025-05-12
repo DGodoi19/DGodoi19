@@ -14,4 +14,12 @@ CONTATOS:
 
 [![Email](https://img.shields.io/badge/Email-daniel.watrin%40sempreceub.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.watrin@sempreceub.com)
 
+##
+Learning:
+
+[]Python
+[]C Language
+[]Microsoft Excel
+[]Data Base
+[]MySQL
 
