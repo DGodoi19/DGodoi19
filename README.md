@@ -17,7 +17,7 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 
 ##  Sobre mim
 
-- 🎓 Graduando em **Ciências da Computação** no Centro Universitário de Brasília — CEUB *(2025–2028)*
+-  Graduando em **Ciências da Computação** no Centro Universitário de Brasília — CEUB *(2025–2028)*
 -  **Monitor no CEUB**, ministrando oficinas de redes, segurança cibernética, lógica de programação em C e fundamentos da computação
 -  Foco em **Full-Stack**, **DevOps** e **Segurança Cibernética**
 -  Sempre estudando algo novo — atualmente aprofundando redes (IPv6/VLSM) e arquitetura de sistemas
@@ -61,10 +61,10 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🏗️ **[Calculadora de Obra Residencial](#)** | Sistema Full-Stack MVC para estimativa de custos de construções residenciais | `Java` `JSF` `Spring Boot` `H2` |
-| 🌿 **[Catálogo Interativo de Espécies de Plantas](#)** | CRUD de alta performance para dados botânicos | `Go` `MySQL` `JS` |
-| 📚 **[Gerenciador de Estudos Acadêmicos](#)** | Plataforma de produtividade acadêmica com deploy em produção | `Python` `Django` `CI/CD` |
-| 📊 **[Dashboard de Análise de Dados](#)** | Aplicação de BI interativa para exploração de grandes volumes de dados | `Python` `Pandas` `Streamlit` |
+| 🏗️ **[Calculadora de Obra Residencial](#https://github.com/DGodoi19/Calculadora-Obra-Residencial)** | Sistema Full-Stack MVC para estimativa de custos de construções residenciais | `Java` `JSF` `Spring Boot` `H2` |
+| 🌿 **[Catálogo Interativo de Espécies de Plantas](#https://github.com/DGodoi19/CRUD-bd)** | CRUD de alta performance para dados botânicos | `Go` `MySQL` `JS` |
+| 📚 **[Gerenciador de Estudos Acadêmicos](#https://github.com/DGodoi19/Gerenciador-de-estudos)** | Plataforma de produtividade acadêmica com deploy em produção | `Python` `Django` `CI/CD` |
+| 📊 **[Dashboard de Análise de Dados](#https://github.com/DGodoi19/imers-o_dados)** | Aplicação de BI interativa para exploração de grandes volumes de dados | `Python` `Pandas` `Streamlit` |
 
 
 <br>
