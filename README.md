@@ -1,11 +1,11 @@
 <div align="center">
 
-# Olá, eu sou o Daniel 
+# Hello, I'm Daniel 
 
-### Desenvolvedor de Software | Segurança Cibernética & Redes
+### Software Developer | Cybersecurity & Networking
 
-Estudante de Ciências da Computação (CEUB) apaixonado por **redes**, **segurança cibernética** e **desenvolvimento full-stack**.
-Gosto de desafio, aprendizado constante e de transformar problemas complexos em soluções simples.
+Computer Science student at CEUB, passionate about **networks**, **cybersecurity**, and **full-stack development**.
+I enjoy challenges, continuous learning, and turning complex problems into simple solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-godoi-alves-watrin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgodoi558@gmail.com)
@@ -15,19 +15,19 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 
 <br>
 
-##  Sobre mim
+## About Me
 
--  Graduando em **Ciências da Computação** no Centro Universitário de Brasília — CEUB *(2025–2028)*
--  **Monitor no CEUB**, ministrando oficinas de redes, segurança cibernética, lógica de programação em C e fundamentos da computação
--  Foco em **Full-Stack**, **DevOps** e **Segurança Cibernética**
--  Sempre estudando algo novo — atualmente aprofundando redes (IPv6/VLSM) e arquitetura de sistemas
--  Idiomas: 🇧🇷 Nativo · 🇺🇸 Fluente · 🇪🇸 Básico
+- Undergraduate in **Computer Science** at Centro Universitário de Brasília — CEUB *(2025–2028)*
+- **Teaching Assistant (Monitor) at CEUB**, conducting workshops on networking, cybersecurity, C programming logic, and computer fundamentals
+- Focus on **Full-Stack**, **DevOps**, and **Cybersecurity**
+- Always studying something new — currently deepening knowledge in networking (IPv6/VLSM) and systems architecture
+- Languages: 🇧🇷 Native · 🇺🇸 Fluent · 🇪🇸 Basic
 
 <br>
 
-##  Stack & Habilidades
+## Stack & Skills
 
-**Linguagens & Web**
+**Languages & Web**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -41,7 +41,7 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=flat-square&logo=eclipseide&logoColor=white)
 
-**Dados & Infra**
+**Data & Infra**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -50,32 +50,32 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Redes & Segurança**
+**Networks & Security**
 ![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 
 <br>
 
-##  Projetos em destaque
+## Featured Projects
 
-| Projeto | Descrição | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| 🏗️ **[Calculadora de Obra Residencial](https://github.com/DGodoi19/Calculadora-Obra-Residencial)** | Sistema Full-Stack MVC para estimativa de custos de construções residenciais | `Java` `JSF` `Spring Boot` `H2` |
-| 🌿 **[Catálogo Interativo de Espécies de Plantas](https://github.com/DGodoi19/CRUD-bd)** | CRUD de alta performance para dados botânicos | `Go` `MySQL` `JS` |
-| 📚 **[Gerenciador de Estudos Acadêmicos](https://github.com/DGodoi19/Gerenciador-de-estudos)** | Plataforma de produtividade acadêmica com deploy em produção | `Python` `Django` `CI/CD` |
-| 📊 **[Dashboard de Análise de Dados](https://github.com/DGodoi19/imers-o_dados)** | Aplicação de BI interativa para exploração de grandes volumes de dados | `Python` `Pandas` `Streamlit` |
+| 🏗️ **[Residential Construction Calculator](https://github.com/DGodoi19/Calculadora-Obra-Residencial)** | Full-Stack MVC system for estimating residential construction costs | `Java` `JSF` `Spring Boot` `H2` |
+| 🌿 **[Interactive Plant Species Catalog](https://github.com/DGodoi19/CRUD-bd)** | High-performance CRUD for botanical data | `Go` `MySQL` `JS` |
+| 📚 **[Academic Study Manager](https://github.com/DGodoi19/Gerenciador-de-estudos)** | Academic productivity platform with production deployment | `Python` `Django` `CI/CD` |
+| 📊 **[Data Analysis Dashboard](https://github.com/DGodoi19/imers-o_dados)** | Interactive BI application for exploring large datasets | `Python` `Pandas` `Streamlit` |
 
 
 <br>
 
-## 📜 Certificações
+## 📜 Certifications
 
-`CCNA – Introdução às Redes` · `Google Cloud Computing Foundations` · `Introduction to Cybersecurity (Cisco)` · `Networking Basics & Devices (Cisco)` · `Imersão Dados com Python (Alura)` · `Power BI (ENAP)`
+`CCNA – Introduction to Networks` · `Google Cloud Computing Foundations` · `Introduction to Cybersecurity (Cisco)` · `Networking Basics & Devices (Cisco)` · `Python Data Immersion (Alura)` · `Power BI (ENAP)`
 
 <br>
 
-##  Estatísticas
+## Stats
 
 <div align="center">
 
@@ -90,6 +90,6 @@ Gosto de desafio, aprendizado constante e de transformar problemas complexos em 
 
 <div align="center">
 
- **Vamos conversar?** Estou aberto a oportunidades de **Full-Stack**, **DevOps** e **Segurança Cibernética**.
+ **Let's connect?** I am open to opportunities in **Full-Stack**, **DevOps**, and **Cybersecurity**.
 
 </div>
